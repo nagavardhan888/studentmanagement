@@ -142,7 +142,7 @@ python main.py
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 Developed as a **learning and academic project** to understand core programming concepts.
 
